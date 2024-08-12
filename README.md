@@ -13,7 +13,7 @@ Projeto com o objetivo de me ajudar a criar um E-Book do zero com um layout rico
 
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
+- [MidJourney](https://www.midjourney.com) - para gerar imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 
@@ -28,9 +28,9 @@ ChatGPT：
 | Conteúdo | Crie um Titulo de um E-Book sobre o tema de Licenciamento Veicular, o e-book é do nicho de Documentação do Detran e o SubNicho é Licenciamento Veicular, o titulo deve ser epico e curto, e tenha uma tematica mais nerd, me liste 5 variações de titulos|
 
 
-Lexica.art：
+MidJourney
 
-- No Lexica.art utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a criação do artigo foi:
+- No MidJourney utilizamos o acervo gratis de imagens, os termos de pesquisa que utilizei durante a criação do artigo foi:
 
 • ChatGPT
 
