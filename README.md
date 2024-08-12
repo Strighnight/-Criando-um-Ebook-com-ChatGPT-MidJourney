@@ -14,13 +14,13 @@ Projeto com o objetivo de me ajudar a criar um E-Book do zero com um layout rico
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [MidJourney](https://www.midjourney.com) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+
 
 
 ## 📄 Prompts e ferramentas
 
 
-ChatGPT：
+## ChatGPT：
 
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -28,11 +28,12 @@ ChatGPT：
 | Conteúdo | Crie um Titulo de um E-Book sobre o tema de Licenciamento Veicular, o e-book é do nicho de Documentação do Detran e o SubNicho é Licenciamento Veicular, o titulo deve ser epico e curto, e tenha uma tematica mais nerd, me liste 5 variações de titulos|
 
 
-MidJourney
+## MidJourney:
 
-- No MidJourney utilizamos o acervo gratis de imagens, os termos de pesquisa que utilizei durante a criação do artigo foi:
-
-• ChatGPT
+|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Título  | Contruindo uma imagem no MidJourneu.                                                                                                                                                                                                    |
+| Conteúdo | /imagine Make me a Jedi in a meditation pose, with the blue lightsaber floating, sitting in front of the DETRAN, Pixel Art Stile.|
 
 
 
@@ -40,7 +41,7 @@ MidJourney
 
 
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Imagens da conta gratuita geradas via MidJourney
 
 
 ## 🛠️ Instruções de execução
